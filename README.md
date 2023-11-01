@@ -1,2 +1,2 @@
 # SmartGarageEDA
-Data processor for displaying graphs of an intelligent grage
+Data processor for displaying graphs of an intelligent garage
